@@ -1,0 +1,47 @@
+body{
+  background-color:azure
+}
+
+.picture{
+  margin: 70px;
+  border:8px dashed pink;
+  background-color: bisque;
+  text-align: center;
+  
+}
+
+h1{
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    text-decoration: dashed underline;
+
+  }
+
+
+.cleaning{
+
+  width:500px;
+  margin: 70px;
+  text-align: center;
+
+}
+
+h2{
+
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+
+}
+
+p{
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: larger;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+
+}
